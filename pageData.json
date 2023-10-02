@@ -40,5 +40,26 @@
 				"image-description-3": "Nội dung image-description-3"
 			}
 		}
+	},
+	
+	"aboutus": {
+		"en": {
+			"translation": {
+				"title-1": "About Us",
+				"body-info-1": "body-info-1 Content Update 1",
+				"image-description-1": "image-description-1 Content",
+				"image-description-2": "image-description-2 Content",
+				"image-description-3": "image-description-3 Content"
+			}
+		},
+		"vn": {
+			"translation": {
+				"title-1": "chung toi",
+				"body-info-1": "Nội dung edit body-info-1",
+				"image-description-1": "Nội dung image-description-1",
+				"image-description-2": "Nội dung image-description-2",
+				"image-description-3": "Nội dung image-description-3"
+			}
+		}
 	}
 }
