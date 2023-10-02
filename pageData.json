@@ -1,0 +1,42 @@
+{
+	"global": {
+		"en": {
+			"translation": {
+				"header-1": "Home",
+				"header-2": "Products",
+				"header-3": "About Us",
+				"header-4": "Contact",
+				"header-5": "Language"
+			}
+		},
+		"vn": {
+			"translation": {
+				"header-1": "Trang chủ",
+				"header-2": "Sản phẩm",
+				"header-3": "Giới thiệu",
+				"header-4": "Liên hệ",
+				"header-5": "Ngôn ngữ"
+			}
+		}
+	},
+	"index": {
+		"en": {
+			"translation": {
+				"title-1": "About",
+				"body-info-1": "body-info-1 Content",
+				"image-description-1": "image-description-1 Content",
+				"image-description-2": "image-description-2 Content",
+				"image-description-3": "image-description-3 Content"
+			}
+		},
+		"vn": {
+			"translation": {
+				"title-1": "Về",
+				"body-info-1": "Nội dung body-info-1",
+				"image-description-1": "Nội dung image-description-1",
+				"image-description-2": "Nội dung image-description-2",
+				"image-description-3": "Nội dung image-description-3"
+			}
+		}
+	}
+}
